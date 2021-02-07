@@ -21,8 +21,8 @@ This should put a copy of the repository into the directory you had chosen in st
 ## Usage
 This site should allow users to easily learn about Horiseon's Search Engine Optimization, Online Reputation Management, Social Media marketing, and more. The categories at the top of the page act as pathways that when clicked, will navigate the reader to the content that concerns the selected category.
 
-![alt text](assets/images/CATEGORY.PNG)
-![alt text](assets/images/SEO.PNG)
+![alt text](assets/images/CATEGORY.png)
+![alt text](assets/images/SEO.png)
 
 [Check Out The Full Page](https://ianfletcher314.github.io/Horiseon-SSS-/)
 
