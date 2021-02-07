@@ -24,6 +24,8 @@ This site should allow users to easily learn about Horiseon's Search Engine Opti
 ![alt text](assets/images/CATEGORY.PNG)
 ![alt text](assets/images/SEO.PNG)
 
+[Check Out The Full Page](https://ianfletcher314.github.io/Horiseon-SSS-/)
+
 ## Credits
 
 - [GitHub's Document on Cloning Repositories (used in Instalation section)](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) 
