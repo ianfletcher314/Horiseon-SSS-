@@ -1,10 +1,10 @@
 # Horiseon SSS 
 
 ## The Repository 
-This Repository is where Horiseon's website was updated to meet the accessability standards put forward by Horsion Inc. 
+This Repository is where Horiseon's website was updated to meet the accessibility standards put forward by Horsion Inc. 
 
-## Instalation
-In order to acess and refractor the code you must first go through the Instilation Process
+## Installation
+In order to acess and refractor the code you must first go through the Installation Process
 
 1) Open GitHub and navigate to the main repository 
 
